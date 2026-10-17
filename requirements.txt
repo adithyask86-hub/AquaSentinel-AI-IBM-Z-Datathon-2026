@@ -1,0 +1,2 @@
+# AquaSentinel AI currently uses Python standard-library modules.
+# No third-party packages are required for the dashboard or analysis scripts.
